@@ -1,0 +1,30 @@
+h1 {
+    color: chartreuse;
+}
+
+p{
+    color: #d2c031;
+    font-style: italic;
+    
+}
+
+#first-paragraph{
+    color: cyan;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Headding , .box{
+    color: crimson;
+}
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.submit-button 
+{
+    color: chartreuse;
+    background-color: aliceblue;
+    padding-right: 20px;
+
+}
